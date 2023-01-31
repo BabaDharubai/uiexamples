@@ -1,0 +1,14 @@
+{
+  "name": "pull-publish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rinish2510/custom-library": "^1.0.0"
+  }
+}
